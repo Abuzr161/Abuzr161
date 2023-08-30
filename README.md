@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mohd Abujar
-- 👀 I’m interested in web development projects using django
-- 🌱 I’m currently learning full stack web development
+- 👀 I’m working at dot Net and angular technologies  
+- 🌱 I’m currently working as full stack web development
 - 💞️ I’m looking to collaborate on a project
 - 📫 How to reach me just comment
 
